@@ -1,6 +1,6 @@
 {
-    "name": "consoletvs/charts",
-    "description": "The laravel charting package",
+    "name": "tabacitu/charts",
+    "description": "Temporary Archive of ConsoleTVs/Charts (aka Chartisan/Charts) v6.5.6",
     "license": "MIT",
     "type": "library",
     "require": {
